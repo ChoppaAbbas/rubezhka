@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="desigh.css">
+    <link rel="stylesheet" href="text.css">
+</head>
+<body>
+	<div class="navbar"> <em> +77019729449    |    Работаем 7 дней в неделю    |     9:00 — 18:00 </em></div>
+    <nav class="one"><ul>
+    	<li><a href="#">Main page</a></li> 
+    	<li><a href="#">Watchs</a></li>
+    	<li><a href="#">Parfume</a></li> 
+    	<li><a href="#">Costums</a></li> 
+    </ul></nav>
+	<div class="search"><input type="text" placeholder="Search"></div>
+	<div class="logo"><img src="img/splnews.jpg" width="100" height="120"> (SPL)
+	</div>
+	<div class="block">
+		
+		<center><img src="img/handsome.jpg" width="982" height="800"> </center>
+		<p> Buy your confidence</p>
+
+           </div>
+ 		</div>
+ <div class="Parfume"> 
+ 	<img src="img/Parfume.jpg" width="400" height="400">
+ 	<img src="img/man.jpg" width="400" height="400">
+ 	<img src="img/watch.jpg" width="450" height="400">
+ </div>
+ </div>
+<div class="holder">
+	<img src="img/long.jpg" width="1400" height="450">
+</div>
+<div class="top">
+	<div><img src="img/bleu.jpg" width="450" height="250"></div>
+	<div><img src="img/blue.jpg" width="450" height="250"></div>
+	<div><img src="img/hanowa.jpg" width="450" height="250"></div>
+</div>	 
+	<footer>
+  <div class="container">
+    <div class="col-1-3"> © 2020 Все права защищены</div>
+    <div class="col-1-3">  г. Алматы проспект Ленина 85</div>
+    <div class="col-1-3">по всем вопросам обращайтесь в инстаграм </div>
+    <a href="https://www.instagram.com/latypov_1/?hl=ru" target="_blank" ><img src="img/insta.jpg" width="50" height="75">><p>instagram</p>
+  </div>
+</footer>
